@@ -37,20 +37,6 @@ Palette personnalisée **Executive Navy** :
 | Amber | `#E8A33D` | Attrition / accents |
 | Gris | `#8C9BAB` | Données neutres |
 
-Le thème est fourni dans `HR_Dashboard_Theme.json` (**Affichage → Thèmes → Parcourir les thèmes** dans Power BI Desktop).
-
-## Utilisation
-
-1. Clone ce repo.
-2. Ouvre `HR_Analytics_Dashboard.pbix` dans Power BI Desktop.
-3. Mets à jour le chemin vers `HR_Analytics.csv` si nécessaire.
-
-## Analyses et conclusions
-
-- 
-- 
-- 
-
 ## Outils
 
 Power BI Desktop · Power Query 
