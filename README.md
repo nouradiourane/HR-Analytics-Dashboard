@@ -5,10 +5,6 @@ Un tableau de bord Power BI interactif analysant l'attrition des employés, la d
 
 > 🎉 Mon tout premier dashboard — projet réalisé pour apprendre Power BI de bout en bout : modélisation des données, mesures, visuels, et thème personnalisé.
 
-## Aperçu
-
-![Aperçu du dashboard](assets/dashboard_preview.png)
-
 ## Indicateurs clés
 
 - **Total Employees** — effectif total
